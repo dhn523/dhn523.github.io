@@ -1,7 +1,60 @@
-p {
-	background-color: red;
+html {
+	background-color: #303030;
+}
+#head {
+	display: block;
+	border-radius: 5px;
+	background-color: #595959;
 }
 
-#k {
-	font-size: 100px;
+.head {
+	display: inline;
 }
+
+#list {
+	margin-top: 0px;
+	list-style-type: none;
+	display: inline;
+	float: right;
+}
+
+.item{
+	display: inline;
+}
+
+.header {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+#B {
+	display: block;
+	background-color: #8D1919;
+	height: 500px;
+}
+#M {
+	display: block;
+	background-color: #CD5C5C;
+	height: 500px;
+}
+#S {
+	display: block;
+	background-color: #8D1919;
+	height: 500px;
+}
+
+#Duty{
+	display: initial;
+	position: fixed;
+	border-radius: 5px;
+	background-color: #ACACAC;
+	height: 250px;
+	width: 400px;
+	margin: auto;
+}
+
+.Duty {
+	text-align: center;
+}
+
