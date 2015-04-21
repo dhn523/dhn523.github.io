@@ -1,5 +1,6 @@
 html {
 	background-color: #303030;
+	padding-bottom: 150px;
 }
 #head {
 	display: block;
@@ -23,7 +24,7 @@ html {
 }
 
 .header {
-	text-align: center;
+
 	color: white;
 	font-weight: bold;
 }
@@ -33,6 +34,7 @@ html {
 	background-color: #8D1919;
 	height: 500px;
 }
+
 #M {
 	display: block;
 	background-color: #CD5C5C;
@@ -44,17 +46,23 @@ html {
 	height: 500px;
 }
 
+.Buell ,.Marvin ,.Silvers {
+	display: inline-block;
+}
+
 #Duty{
-	display: initial;
 	position: fixed;
 	border-radius: 5px;
-	background-color: #ACACAC;
-	height: 250px;
-	width: 400px;
-	margin: auto;
+	background-color: blue;
+	height: 150px;
+	width: 100%;
+	bottom: 0;
+
 }
 
 .Duty {
 	text-align: center;
+	color: white;
 }
+
 
