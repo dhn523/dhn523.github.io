@@ -11,11 +11,11 @@ html {
 
 #h {
 	display: inline;
-	font-family: 'Anton', sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
 	color: #856664;
 	font-size: 80px;
 	position: absolute;
-	padding-left: 20px;
+	padding: 0px;
 	margin-top: 0px;
 	text-transform: uppercase;
 }
